@@ -1,0 +1,35 @@
+Metadata-Version: 2.4
+Name: Patient-Survival-API
+Version: 0.0.0
+Summary: Patient Survival prediction model package 
+Author: ----------
+Author-email: ------
+License: BSD-3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Programming Language :: Python :: Implementation :: PyPy
+Requires-Python: >=3.7.0
+Description-Content-Type: text/markdown
+Requires-Dist: uvicorn<0.18.0,>=0.16.0
+Requires-Dist: fastapi<1.0.0,>=0.64.0
+Requires-Dist: pydantic
+Requires-Dist: requests<2.24.0,>=2.23.0
+Requires-Dist: gradio==3.36.1
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: license
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
+
+Patient Survival prediction model package 
